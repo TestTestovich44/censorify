@@ -1,6 +1,6 @@
 {
     "author": "Artur Starodub",
-    "name": "censorify44test",
+    "name": "censorify_for_tests",
     "version": "0.1.1",
     "description": "Censors words out of text",
     "main": "censoretext",
