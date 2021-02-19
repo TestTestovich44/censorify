@@ -1,9 +1,17 @@
 {
     "author": "Artur Starodub",
-    "name": "censorify",
+    "name": "censorify44test",
     "version": "0.1.1",
     "description": "Censors words out of text",
     "main": "censoretext",
+    "repository": {
+        "type": "git",
+        "directory": "https://github.com/TestTestovich44/censorify"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
     "dependencies": {},
     "engines": {
         "node": "*"
